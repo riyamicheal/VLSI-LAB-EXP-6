@@ -76,11 +76,9 @@ g.	Execute Output s—to be plotted – Select on Schematic
 h.	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 i.	Execute Simulation -- Net list and Run
 
-# INVERTER SCHEMATIC:
+# INVERTOR SCHEMATIC
 
-![image](https://github.com/teja2134/VLSI-LAB-EXP-6/assets/161149578/7fcfd07b-3fe6-42b7-819f-d8292014f988)
 
-![image](https://github.com/teja2134/VLSI-LAB-EXP-6/assets/161149578/057132c7-47aa-4bc2-9326-4a7f5a48959d)
 
 # Specifications:  
 ## Vpulse 	
@@ -165,4 +163,4 @@ pulse width = 20ns
 
 # Result:
 
-   Thus, the design,simulation and verification of the  CMOS inverter,NAND,NOR from schematic  using cadence was successfully completed.
+ Thus, the design,simulation and verification of the  CMOS inverter,NAND,NOR from schematic  using cadence was successfully completed.
