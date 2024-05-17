@@ -76,10 +76,11 @@ g.	Execute Output s—to be plotted – Select on Schematic
 h.	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 i.	Execute Simulation -- Net list and Run
 
-# INVERTOR SCHEMATIC
+# INVERTOR SCHEMATIC:
+
+![image](https://github.com/riyamicheal/VLSI-LAB-EXP-6/assets/124061774/a6f48789-1e92-4c32-a221-688b75da0e54)
 
 ![image](https://github.com/riyamicheal/VLSI-LAB-EXP-6/assets/124061774/fb986145-1f78-448c-81d9-9e3ebf8cbe7c)
-
 
 # Specifications:  
 ## Vpulse 	
