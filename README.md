@@ -78,6 +78,7 @@ i.	Execute Simulation -- Net list and Run
 
 # INVERTOR SCHEMATIC
 
+![image](https://github.com/riyamicheal/VLSI-LAB-EXP-6/assets/124061774/fb986145-1f78-448c-81d9-9e3ebf8cbe7c)
 
 
 # Specifications:  
