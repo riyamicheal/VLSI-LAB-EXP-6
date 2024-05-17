@@ -11,7 +11,7 @@ DATE:
    Cadence
 
 # PROCEDURE:
-~~~
+
 ## Commands to get into Cadence
 
 1.	Right Click and open the terminal window
